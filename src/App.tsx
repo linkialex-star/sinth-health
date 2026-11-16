@@ -1,6 +1,6 @@
 export default function App() {
   return (
-    <main className="shell">
+    <main className="shell" data-github-sync="test">
       <header className="topbar">
         <a className="wordmark" href="/" aria-label="Sinth Health início">sinth<span>.</span></a>
         <span className="topbar-label">HEALTH / PLATAFORMA</span>
